@@ -30,6 +30,10 @@ A student and tech enthusiast who builds things just for the fun of it. My curio
 
 ## .gitignore team
   <img src="gitignoreteam.png" width="20%">
-Team that exist somehow
+
+Chaotic Team that exist somehow...
+-  [bluebleaze](https://github.com/bluebleaze)
+-  [inihelta](https://github.com/inihelta)
+
 
 > Eat, Sleep, Code, Repeat.
