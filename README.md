@@ -23,6 +23,7 @@ A student and tech enthusiast who builds things just for the fun of it. My curio
 
 
 -  **[IOnLearn](https://github.com/bluebleaze/IOnLearn)**
+-  **[Puzzle-Pixel-Game](https://github.com/DarkIgnite/Puzzle-Pixel-Game)**
 -  secret?
 
 ## Currently learning
