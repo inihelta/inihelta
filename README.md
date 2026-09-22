@@ -28,7 +28,7 @@ A student and tech enthusiast who builds things just for the fun of it. My curio
 
 ## Currently learning
 
-`Laravel` `React` `TailwindCSS` `Inertia.js` `JavaScript` `3D Printing` `Mobile Programming` `artificial intelligence`
+`Laravel` `React` `TailwindCSS` `Inertia.js` `TypeScript` `3D Printing` `Mobile Programming` `artificial intelligence`
 
 ## .gitignore team
   <div align="center"> 
