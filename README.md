@@ -4,6 +4,7 @@
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Figma/png/Figma.png?raw=true" width="20%">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Next.js/png/Next.js.png?raw=true" width="20%">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/tailwind%20css/png/Tailwindcss.png?raw=true" width="20%">
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/png/React.png?raw=true" width="20%">
 </p>
 
 > I like Full-stack Web Development, Minecraft Modding, and Hardware Troubleshooting.
@@ -29,11 +30,14 @@ A student and tech enthusiast who builds things just for the fun of it. My curio
 `Laravel` `React` `TailwindCSS` `Inertia.js` `JavaScript` `3D Printing` `Mobile Programming` `artificial intelligence`
 
 ## .gitignore team
-  <img src="gitignoreteam.png" width="20%">
+  <div align="center"> 
+    <img src="gitignore.png" width="80%" >
+  </div>
+  
 
-Chaotic Team that exist somehow...
--  [bluebleaze](https://github.com/bluebleaze)
--  [inihelta](https://github.com/inihelta)
+### Chaotic Team that exist <i>somehow...</i>
+- [bluebleaze](https://github.com/bluebleaze) 
+- [inihelta](https://github.com/inihelta)
 
 
 > Eat, Sleep, Code, Repeat.
