@@ -31,7 +31,7 @@ A student and tech enthusiast who builds things just for the fun of it. My curio
 
 ## .gitignore team
   <div align="center"> 
-    <img src="gitignore.png" width="80%" >
+    <img src="gitignoreteam.png" width="80%" >
   </div>
   
 
