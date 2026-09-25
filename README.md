@@ -39,6 +39,7 @@ A student and tech enthusiast who builds things just for the fun of it. My curio
 ### Chaotic Team that exist <i>somehow...</i>
 - [bluebleaze](https://github.com/bluebleaze) 
 - [inihelta](https://github.com/inihelta)
+- [moonelliaven](https://github.com/moonelliaven)
 
 
 > Eat, Sleep, Code, Repeat.
